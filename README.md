@@ -21,4 +21,8 @@ Project developed to practice data visualization and business analysis using Pow
 
 ## 📸 Preview
 
+### Desktop
 <img width="1416" height="798" alt="dashboard_power_bi" src="https://github.com/user-attachments/assets/6d9c88ba-6bf0-4114-a013-63b0e8147100" />
+
+### Mobile
+<img width="395" height="714" alt="dashboard_movie" src="https://github.com/user-attachments/assets/1ce6cbac-fb81-411e-976f-c00726405ea9" />
